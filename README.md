@@ -1,4 +1,4 @@
-# YouTube/SoundCloud Music Sharing Platform
+# YouTube & SoundCloud Music Sharing Platform
 
 ![Home Page](./assets/746420823_1399865195326668_3809817911554168857_n.jpg)
 ![Room](./assets/746439984_1399865175326670_8353238729665569553_n.jpg)
