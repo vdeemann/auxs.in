@@ -5,7 +5,7 @@
 ![SoundCloud](./assets/746472334_1399865261993328_7841668060489049741_n.jpg)
 ![Live Chat](./assets/746411844_1399865241993330_236680467173808987_n.jpg)
 
-A real-time watch party platform built with Elixir, Phoenix LiveView, and JavaScript. Users create rooms, share YouTube or SoundCloud URLs, and watch/listen together with synchronized playback, live chat, and personal playlists.
+A real-time music listening party platform built with Elixir, Phoenix LiveView, and JavaScript. Users create rooms, share YouTube or SoundCloud URLs, and watch/listen together with synchronized playback, live chat, and personal playlists.
 
 ## Documentation
 
